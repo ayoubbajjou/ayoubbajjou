@@ -17,7 +17,6 @@ I'm a Full Stack PHP Laravel / Vuejs / Reactjs Developer. I like to work with La
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
@@ -38,6 +37,7 @@ I'm a Full Stack PHP Laravel / Vuejs / Reactjs Developer. I like to work with La
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"></code>
 
 
 ### Interesting stats
