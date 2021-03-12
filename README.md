@@ -1,6 +1,5 @@
 # Ayoub Bajjou 
 
-![](https://komarev.com/ghpvc/?username=ayoubbajjou&color=green)
 [![Linkedin](https://img.shields.io/badge/-Ayoub%Bajjou-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bajjouayoub/)](https://www.linkedin.com/in/bajjouayoub/)
 [![Mail](https://img.shields.io/badge/-bajjouayoub@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:bajjouayoub@gmail.com)
 
@@ -21,6 +20,7 @@ I'm a Full Stack PHP Laravel / Vuejs / Nuxtjs Developer. I like to work with Lar
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 
