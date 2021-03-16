@@ -14,9 +14,9 @@ I'm a Full Stack PHP Laravel / Vuejs / Nuxtjs Developer. I like to work with Lar
 <code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
