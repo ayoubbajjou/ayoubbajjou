@@ -22,8 +22,6 @@ I'm a Full Stack PHP Laravel / Vuejs / Nuxtjs Developer. The main stacks i work 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-
 
 ### Interesting stats
 
