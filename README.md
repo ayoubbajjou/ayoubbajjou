@@ -6,7 +6,7 @@
 
 
 ## About me 
-I'm a Full Stack PHP Laravel / Vuejs / Nuxtjs Developer. The main stacks i work with is Laravel / Vuejs, Nuxtjs, Alpine And Livewire. 
+I'm a Senior Full Stack PHP Laravel / Vuejs / Nuxtjs Developer. The main stacks i work with is Laravel / Vuejs, Nuxtjs, Alpine And Livewire. 
 
 
 ## Stack I work with
