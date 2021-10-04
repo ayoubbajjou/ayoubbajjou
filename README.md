@@ -1,6 +1,6 @@
 # Ayoub Bajjou 
 
-[![Linkedin](https://img.shields.io/badge/-Ayoub%Bbaajjou-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bajjouayoub/)](https://www.linkedin.com/in/bajjouayoub/)
+[![Linkedin](https://img.shields.io/badge/-Ayoub% Bajjou-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bajjouayoub/)](https://www.linkedin.com/in/bajjouayoub/)
 [![Mail](https://img.shields.io/badge/-bajjouayoub@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:bajjouayoub@gmail.com)
 
 
