@@ -1,6 +1,7 @@
 # Ayoub Bajjou 
 
 [![Linkedin](https://img.shields.io/badge/-Ayoub_Bajjou-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bajjouayoub/)](https://www.linkedin.com/in/bajjouayoub/)
+[![Mail](https://img.shields.io/badge/-Ayoub_Bajjou-green?style=flat-square&logo=upwork&logoColor=green&link=)](https://www.upwork.com/freelancers/~01a0dd8e8b42d4a9e1)
 [![Mail](https://img.shields.io/badge/-bajjouayoub@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:bajjouayoub@gmail.com)
 
 
