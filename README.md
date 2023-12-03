@@ -16,7 +16,7 @@ I'm a Senior Full Stack Developer in PHP / TALL Stacks / Reactjs / Nextjs / Vuej
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/next/next-ar21.svg"></code>
+<code><img height="50" src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 
