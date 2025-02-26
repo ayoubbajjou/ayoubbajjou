@@ -6,8 +6,7 @@
 
 
 ## About me 
-I'm a Senior Full Stack Developer in PHP / TALL Stacks / Reactjs / Nextjs / Vuejs / Nuxtjs. 
-
+Tech Entrepreneur | AI & Web Startup Builder
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
